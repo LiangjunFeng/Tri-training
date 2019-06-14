@@ -5,4 +5,4 @@ paper [Zhou Z H, Li M. Tri-Training: Exploiting Unlabeled Data Using Three Class
 
 data [norb.mat dataset](https://cs.nyu.edu/~ylclab/data/norb-v1.0/) 
 
-bolg [introduction of tri-training]https://blog.csdn.net/Liangjun_Feng/article/details/92009600
+bolg [introduction of tri-training](https://blog.csdn.net/Liangjun_Feng/article/details/92009600)
